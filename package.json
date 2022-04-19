@@ -20,12 +20,14 @@
     }
   },
   "dependencies": {
+    "@babel/preset-env": "^7.12.17",
     "@nuxtjs/axios": "^5.12.2",
     "@nuxtjs/pwa": "^3.0.2",
     "core-js": "^3.6.5",
     "nuxt": "^2.14.5"
   },
   "devDependencies": {
+    "@faker-js/faker": "^6.1.2",
     "@nuxtjs/eslint-config": "^3.1.0",
     "@nuxtjs/eslint-module": "^2.0.0",
     "@nuxtjs/tailwindcss": "^3.0.2",
@@ -35,11 +37,14 @@
     "babel-jest": "^26.3.0",
     "eslint": "^7.8.1",
     "eslint-config-prettier": "^6.11.0",
+    "eslint-loader": "^4.0.2",
     "eslint-plugin-nuxt": "^1.0.0",
     "eslint-plugin-prettier": "^3.1.4",
+    "faker": "^6.6.6",
     "husky": "^4.3.0",
     "jest": "^26.4.2",
     "lint-staged": "^10.3.0",
+    "miragejs": "^0.1.43",
     "prettier": "^2.1.1",
     "vue-jest": "^3.0.4"
   }

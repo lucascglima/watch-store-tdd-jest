@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Um titulo",
+    "description": "Uma descrição",
+    "price": "12.33"
+  },
+  {
+    "id": 2,
+    "title": "Outro titulo",
+    "description": "Uma descrição",
+    "price": "22.44"
+  },
+  {
+    "id": 3,
+    "title": "Ainda mais um titulo",
+    "description": "Uma descrição",
+    "price": "20"
+  },
+  {
+    "id": 4,
+    "title": "Ainda mais um titulo",
+    "description": "Uma descrição",
+    "price": "20"
+  }
+]
